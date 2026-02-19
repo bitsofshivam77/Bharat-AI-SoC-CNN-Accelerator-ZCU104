@@ -1,5 +1,5 @@
 # Project Report  
-## CNN Accelerator on ZCU104
+## CNN Accelerator on PYNQ-Z2
 
 ---
 
