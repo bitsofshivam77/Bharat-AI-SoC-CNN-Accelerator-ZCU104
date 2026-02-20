@@ -86,7 +86,11 @@ ARM Processor (PS)
 - Reduced inference latency
 - Efficient hardware utilization
 - FPGA-based acceleration over CPU-only implementation
+  
+## 📄 Final Report
 
+Download the complete project report here:
+[Click to View Report](final_report/BharatAISoC_CNN_Accelerator_PYNQZ2_TeamSubmission.pdf)
 ---
 
 ## 📜 License
